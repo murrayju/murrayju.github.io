@@ -1,0 +1,40 @@
+- layout: top-middle
+  name: Fluency Assistant
+  link: assistant.mmodal.com
+  quote: >
+    A virtual assistant for physicians
+  description: |
+    At the core of the solution is a sophisticated microservice cluster. This exposes a REST API for the front-end clients to build on top of.
+    On the back-end, several different services are tied together into a processing pipeline, that can take text-based requests, run NLU processing to determine the user's intent,
+    run through a sophisticated mapping engine that combines the intent with the user's current context to determine the appropriate action, and then execute that action.
+    The service also manages client sessions, providing context management, inter-client communication (event bus), and several other services.
+
+- layout: top-middle
+  name: Durak
+  link: durak.xyz
+  github: murrayju/durak
+  quote: >
+    A card game to play with friends.
+  description: |
+    Created at a time when social distancing led to virtual hangouts. This is a classic russian card game popular among my friends, ported into a <mark>React</mark> web app.
+
+- layout: top-middle
+  name: build-strap
+  link: npmjs.com/package/build-strap
+  github: murrayju/build-strap
+  quote: >
+    A near-zero dependency builds system, with no BS
+  description: |
+    A library for writing build scripts for any kind of software, on any platform. Build scripts are written in JavaScript and execute on node.js.
+
+    Includes self-bootstrapping executable scripts (for Windows, Mac, and Linux) that download all dependencies to a local directory before executing.
+
+- layout: top-middle
+  name: Temp File Cleaner
+  link: tempfilecleaner.com
+  quote: >
+    Quickly eliminate cruft from your hard drive
+  description: |
+    Originally built for computer service techs, then made available to the general public.
+
+    A simple tool that identifies unneeded and unwanted files on a hard drive, and then quickly eliminates them.

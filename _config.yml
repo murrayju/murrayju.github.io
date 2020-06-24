@@ -1,0 +1,63 @@
+# Site
+repository: murrayju/murrayju.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Justin Murray
+title: Software Engineer
+email: justin@murrayju.com
+website: murrayju.com
+
+# Social links
+# twitter_username: justinmurray
+github_username:  murrayju
+# dribbble_username: murrayju
+# facebook_username: murrayju
+# flickr_username: murrayju
+# instagram_username: murrayju
+linkedin_username: murrayju
+# pinterest_username: murrayju
+# youtube_username: murrayju
+# googleplus_username: +murrayju
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am an experienced Software Engineer driven by the development of new technology to improve people's lives. I strive for elegant code solutions and embrace an efficient development workflow. I believe in writing quality software that is engineered to be simple, flexible, and reusable. I take pride in organized development practices that include detailed issue tracking, continuous integration, and automated testing. I am always looking for ways to get more done with less code. There is no better feeling than replacing verbose old code with something leaner, less buggy, and more efficient.
+
+  I am not married to any particular programming language or development stack. I'm generally able to learn new frameworks quickly, and I am genuinely excited by the idea of learning something new that can improve upon something old.
+
+  I do not let bureaucracy stand in the way of progress. I believe in giving engineers the tools that they need to do their jobs effectively, with as few barriers as possible.
+
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# education_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  When I'm not working, I love to enjoy the outdoors.
+   - Mountain Biking
+   - Skiing
+   - Rock climbing
+   - Ultimate Frisbee
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

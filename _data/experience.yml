@@ -1,0 +1,41 @@
+- layout: left
+  company: 3M | M*Modal
+  link: 3m.com/HIS
+  job_title: Lead Architect
+  dates: January 2018 - Present
+  quote: >
+    (M*Modal was acquired by 3M HIS in April 2019)
+    <br/>
+    Fluency Assistant - A virtual assistant for physicians
+  description: |
+    I designed Fluency Assistant, a virtual voice assistant for physicians, and led a team in the development of the product from scratch. The product was demoed at the 2019 HIMSS conference.
+
+- layout: left
+  company: M*Modal
+  link: mmodal.com
+  job_title: Senior Software Engineer
+  dates: February 2013 - January 2018
+  quote: >
+    CSD - Custom Solutions Development
+  description: |
+    On the CSD team, I was responsible for working on projects that did not fit into any of the product teams' roadmaps. This included one-off customer requests, as well as building several new products from scratch. As a senior member of the team, I also acted in an advisory role on projects developed by other team members.
+
+- layout: left
+  company: Addpcs, LLC
+  link: addpcs.com
+  job_title: Founder
+  dates: February 2005 - Present
+  quote: >
+    Getting things done with software
+  description: |
+    Originally created as a personal tool when working as a service tech in high school, Temp File Cleaner grew into a product with global reach. This was an active side project of mine for many years, doing business as Addpcs LLC. In recent years, activity has slowed and I've focused on other things. The product is still being offered but is in maintenance mode with no new development.
+
+- layout: left
+  company: Aerotech, Inc.
+  link: aerotech.com
+  job_title: Software Engineer II
+  dates: May 2009 - February 2013
+  quote: >
+    Quality at the Source
+  description: |
+    A member of the Software Motion Control group, primarily responsible for maintaining and improving the core layer of the software stack.
