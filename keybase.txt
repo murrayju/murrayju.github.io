@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/murrayju
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://murrayju.com
+  * I am murrayju (https://keybase.io/murrayju) on keybase.
+  * I have a public key ASAlADIl4uXB_lDldC-Afq6MMiIABNV-EpqOXp3FSzRRowo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203a747915fb0bd0f6de8a1ccafc0fb415230ea96cd97f716c165f92aa6998c2810a",
+      "host": "keybase.io",
+      "kid": "012025003225e2e5c1fe50e5742f807eae8c32220004d57e129a8e5e9dc54b3451a30a",
+      "uid": "2183b8e80996f06f058f8ff7cfb54e19",
+      "username": "murrayju"
+    },
+    "merkle_root": {
+      "ctime": 1610253299,
+      "hash": "87aa71a3c29a93f375a2c2d3fe385c5cc42e21f39f089c71e5cf7d08e5908a21bae1ff279507e9a7c2c0ff7546b12573c490a70ef426f6be478507dff759ca6b",
+      "hash_meta": "9b3b10d67630373b7ce4e091705132035d78355260df76bb349ba43c1e455e29",
+      "seqno": 18670640
+    },
+    "service": {
+      "entropy": "9g4cdtjD606oRRboX5SiFy4m",
+      "hostname": "murrayju.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1610253321,
+  "expire_in": 504576000,
+  "prev": "4082b8b95affacd699b0851f7446e04ae909d41c4195d15ee540cffb4af6a604",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJQAyJeLlwf5Q5XQvgH6ujDIiAATVfhKajl6dxUs0UaMKp3BheWxvYWTESpcCF8QgQIK4uVr/rNaZsIUfdEbgSukJ1BxBldFe5UDP+0r2pgTEIFd0udrtzT/IP9ZJjdVsFPknjDrFeId6QL/hSUY2qgbaAgHCo3NpZ8RAotGvhUs/O578YENfzqMXZH6labmmZE+Z/Ntn3LlZ7DbCzsAG7NhasEf9UGPCSd9Yx/Owrmlu+AlMiVKJcwfGDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHBK3njyAmWvHO+I3RPfegzCBDzh4yxx6zUGHR+26eMlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/murrayju
+
+==================================================================
